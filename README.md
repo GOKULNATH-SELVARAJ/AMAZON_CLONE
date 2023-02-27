@@ -4,7 +4,7 @@ NOTE: This is made only for educational purposes, and is in no way associated wi
 
 ## Live app
 
-<a href="https://amz-clone-b9eab.web.app/" target="_blank">https://amz-clone-b9eab.web.app/</a>
+<a href="https://amazon-clone-eight-rho.vercel.app/" target="_blank">https://amazon-clone-eight-rho.vercel.app/</a>
 
 ## Usage
 
